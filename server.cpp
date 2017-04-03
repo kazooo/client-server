@@ -1,7 +1,6 @@
 /**
-* Projekt cislo 1 do predmetu IPK
 * Nazev: Aplikace klient/server pro prenos souboru
-* Autor: Ermak Aleksei, xermak00@stud.fit.vutbr.cz
+* Autor: Ermak Aleksei
 * Rok: 2017
 */
 
